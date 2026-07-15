@@ -1,1 +1,1 @@
-# Company-Dashbaord
+# Company-Dashboard
